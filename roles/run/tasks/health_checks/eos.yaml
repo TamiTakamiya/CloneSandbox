@@ -5,4 +5,3 @@
     parser:
       name: ansible.netcommon.content_templates
     set_fact: bgp_health
-

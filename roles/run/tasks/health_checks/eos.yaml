@@ -1,5 +1,10 @@
 ---
+<<<<<<< HEAD
 - name Parse bgp summary
+=======
+# Comment
+- name: Parse bgp summary
+>>>>>>> refs/remotes/origin/main
   ansible.utils.cli_parse:
     command: "show ip bgp summary"
     parser:
